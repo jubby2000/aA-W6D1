@@ -1,1 +1,12 @@
 /* PHASE 8: Thumbs */
+.cat-list {
+  display: grid;
+  grid-gap: 5px;
+  position: relative;
+}
+
+.cat-list img {
+  /* length: 31%;
+  width: 31%; */
+  position: absolute;
+}
